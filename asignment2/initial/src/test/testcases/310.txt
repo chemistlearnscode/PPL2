@@ -1,0 +1,8 @@
+Var: a;
+
+        Function: main
+             Body:
+                 Var: name;
+                 printLn("Enter your name:");
+                 read(name);
+             EndBody.

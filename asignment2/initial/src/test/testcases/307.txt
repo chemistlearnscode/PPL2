@@ -1,0 +1,10 @@
+
+        Var: a = 5;
+        Var: b[0xFFFF];
+        Var: c[0O77][9];
+        
+        Function: main
+            Body:
+                x = 10;
+                printLn (x);
+            EndBody.

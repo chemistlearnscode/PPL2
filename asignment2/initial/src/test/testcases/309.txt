@@ -1,0 +1,8 @@
+Var: a;
+
+        Function: main
+        Parameter: b[5],c = 2,x
+             Body:
+                 x = 10;
+                 printLn (x);
+             EndBody.

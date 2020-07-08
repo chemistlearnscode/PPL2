@@ -1,0 +1,6 @@
+
+        Function: main
+            Body:
+                d = a[b] == b + 5;
+            EndBody.
+                

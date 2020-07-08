@@ -1,0 +1,7 @@
+Var: n = 9 ;
+                Function: main
+                     Body:
+                         If (n == 0) Then
+                                Return 1;
+                         EndIf.
+                     EndBody.

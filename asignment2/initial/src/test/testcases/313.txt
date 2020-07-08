@@ -1,0 +1,7 @@
+Var: n;
+
+        Function: main
+            Body:
+               k[5]=l +. 1.0;
+            EndBody.
+        

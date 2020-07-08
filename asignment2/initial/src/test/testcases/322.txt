@@ -1,0 +1,9 @@
+Var: n = 9 ;
+                Function: main
+                     Body:
+                         If (n != 9) Then
+                                printLn (n);
+                         Else 
+                                printLn (n \ 3);
+                         EndIf.
+                     EndBody.

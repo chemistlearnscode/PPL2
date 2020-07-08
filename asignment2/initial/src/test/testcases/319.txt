@@ -1,0 +1,9 @@
+Var: n[10][10],x=5;
+
+        Function: main
+            Body:
+               Var: i = 2 ;
+               n[x + i][x-i] = x * i; 
+               printLn (n [ x + i][x - i] ) ;
+            EndBody.
+        

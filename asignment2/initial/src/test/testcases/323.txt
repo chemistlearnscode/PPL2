@@ -1,0 +1,11 @@
+Var: n = 9 ;
+                Function: main
+                     Body:
+                         If (n != 9) Then
+                                printLn (n);
+                         ElseIf (n % 3 == 0) Then
+                                printLn ((((((((n \ 3)))))))) ;
+                         Else 
+                                Return 0;
+                         EndIf.
+                     EndBody.

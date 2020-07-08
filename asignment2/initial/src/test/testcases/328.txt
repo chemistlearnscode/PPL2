@@ -1,0 +1,9 @@
+Var: i;
+          Function: main
+            Body:
+                i = 0;
+                Do
+                    printLn (i);
+                    i = i + 1 ;
+                While i < 5;
+            EndBody.

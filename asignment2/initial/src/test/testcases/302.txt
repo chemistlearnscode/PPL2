@@ -1,0 +1,7 @@
+
+        Function: main
+            Body:
+                x = 10;
+                printLn(x);
+            EndBody.
+        

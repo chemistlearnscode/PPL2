@@ -1,0 +1,1 @@
+Program([VarDecl(Id(n),IntLiteral(9)),FuncDecl(Id(main)[],([][If(BinaryOp(!=,Id(n),IntLiteral(9)),[],[CallStmt(Id(printLn),[Id(n)])])ElseIf(BinaryOp(==,BinaryOp(%,Id(n),IntLiteral(3)),IntLiteral(0)),[],[CallStmt(Id(printLn),[BinaryOp(\,Id(n),IntLiteral(3))])])Else([],[Return(IntLiteral(0))])])])

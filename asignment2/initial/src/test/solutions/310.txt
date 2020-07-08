@@ -1,0 +1,1 @@
+Program([VarDecl(Id(a)),FuncDecl(Id(main)[],([VarDecl(Id(name))][CallStmt(Id(printLn),[StringLiteral("Enter your name:")]),CallStmt(Id(read),[Id(name)])])])

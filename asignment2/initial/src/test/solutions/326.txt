@@ -1,0 +1,1 @@
+Program([VarDecl(Id(i)),FuncDecl(Id(main)[],([][Assign(Id(i),IntLiteral(0)),While(BinaryOp(<,Id(i),IntLiteral(5)),[],[CallStmt(Id(printLn),[Id(i)]),Assign(Id(i),BinaryOp(+,Id(i),IntLiteral(1)))])])])

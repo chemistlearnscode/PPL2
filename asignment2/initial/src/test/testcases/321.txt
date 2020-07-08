@@ -1,0 +1,10 @@
+
+                Function: main
+                     Parameter: n
+                     Body:
+                         If (n == 0) Then
+                                Return 1;
+                         ElseIf (n == 1) Then 
+                                Return 2;
+                         EndIf.
+                     EndBody.
